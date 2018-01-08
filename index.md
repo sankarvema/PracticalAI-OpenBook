@@ -1,8 +1,13 @@
+#### Broken Links!
+
+``` 
+Some of the links are broken as we moved to md version.
+Team working on it. Will be resolved soon
+```
+
 # Practical Artificial Intelligence
 
 ## Index
-
-***
 
 - AI Quick Start
   - AI Methods
@@ -24,12 +29,16 @@
   - Recurrent Neural Networks
   - Long Short Term Memory
   - Building ANN with Python
+  - Samples
+    - Build ANN with Python
 - Natural Language Processing
   - Text Analysis
-    - Sentiment Analysis
+  - Samples
+    - Sentiment Analysis with Python
+    - Simple Chatbot with Python
 - Computer Vision
-  - Implementation Scenarios
-    - Medical Image Processing
   - Using OpenCV
+  - Samples
+    - Medical Image Processing with Matlab
 
 
