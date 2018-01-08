@@ -21,7 +21,6 @@ As an open book it does not have the standard publication limitation of the chap
 For better space management, [Index](index.md) is moved to a dedicated page
 
 ## Updates
-****
 
 ##### Upcoming...
 
@@ -29,25 +28,24 @@ For better space management, [Index](index.md) is moved to a dedicated page
 - AI in the era of Quantum Computing
 
 #### Dec 2017
-1. Complete book is converted to md format and rebasedlined (sqashed old commits) to GitHub.
-
-#### Nov 2017
+- Complete book is converted to md format and rebasedlined (sqashed old commits) to GitHub.
 
 #### Oct 2017
-
-#### Sep 2017
+- Hybrid intelligence with Collaborative Neural Networks added to ANN chapter
+- Medical Image diagnostics ad
 
 #### Aug 2017
+- Computer vision scenarios and samples added
 
 #### Jul 2017
+- Sample voice synthesis & recognition included
 
 #### Jun 2017
 
-#### May 2017
-
 
 #### Apr 2017
-1. RNN and CNN topics added to ANN
+- RNN and CNN topics added to ANN
+- Sample build ANN with Python included
 
 #### Mar 2017
-1. Initial manuscript added to github added in tex format
+- Initial manuscript added to github added in TeX format
