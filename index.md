@@ -39,6 +39,8 @@ Team working on it. Will be resolved soon
 - Computer Vision
   - Using OpenCV
   - Samples
+    - Facial recognization with Python
+    - Car number plate reading from Streaming Video
     - Medical Image Processing with Matlab
 
 
