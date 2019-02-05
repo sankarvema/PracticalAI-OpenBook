@@ -1,6 +1,6 @@
 #### Broken Links!
 
-``` 
+```
 Some of the links are broken as we moved to md version.
 Team working on it. Will be resolved soon
 ```
@@ -10,16 +10,75 @@ Team working on it. Will be resolved soon
 ## Index
 
 - AI Quick Start
+  - AI, a bigger umbrella
   - AI Methods
-    - Machine Learning
-    - Deep Learning
+    - Expert Systems
     - Fuzzy Logic
     - Heuristic Methods
     - Search Optimization
+    - Machine Learning
+    - Artificial Neural Networks
+    - Deep Learning
+    - Evolutionary Computing
+      - Genetic Programming
   - AI Latest Scenarios
     - Robotic Process Automation
     - Chatbots
     - Digital Assistants
+- AI at Nature
+  - Molecular Biology & Artificial Intelligence
+  - Evolutionary Intelligence
+    - Evolution Strategies
+    - Generic Programming
+    - Swarm Intelligence
+    - Borg Intelligence
+- AI as in Sci-fi
+- AI Maturity
+  - Where it started? Where it is gonna lead?
+  - Maturity Curve
+    - Stages of Maturity
+  - Universal Intelligence Engine
+  - AI in the era of Quantum Computing
+- Humanity under AI
+  - Physiology, Psychology & Intelligence
+  - Emotional Intelligence
+  - Hunt for Consciousness
+- Machine Learning
+  - Machine Learning Techniques
+    - Supervised
+    - Unsupervised
+    - Semi-Supervised
+    - Reinforced
+  - Machine Learning Algorithms
+    - Regression and Classification
+      - Logistic Regression Classifier
+      - Naïve Bayes
+      - Confusion Matrix
+      - Support Vector Machines
+    - Ensemble
+      - Decision Trees
+      - Random Forests
+      - Extremely Random Forests
+    - Recommendation
+      - Nearest Neighbor
+        - K-Nearest Neighbor
+    - Pattern Recognition
+      - Data Clustering
+        - K-Means Algorithm
+        - Mean Shift Algorithm
+        - Silhouette Scores
+        - Gaussian Mixture
+    - Heuristic Search Techniques
+      - Constraint Satisfaction Problem
+      - Local Search Techniques
+      - Greedy Search
+    - ML Implementation
+      - Model development
+        - Building a cost function
+      - Model deployment
+    - Samples
+      - Job Recommendation by Skills
+      - Product Recommendation for retail site
 - Artificial Neural Networks
   - ANN Structuring
   - Feed Forward Networks
@@ -31,16 +90,34 @@ Team working on it. Will be resolved soon
   - Building ANN with Python
   - Samples
     - Build ANN with Python
+- AI at work
+  - Enterprise Class Solutions
+    - Right Technology Stack
+    - Libraries
+      - Sci-kit Learn
+      - Tensor flow
+      -
+
 - Natural Language Processing
   - Text Analysis
   - Samples
     - Sentiment Analysis with Python
     - Simple Chatbot with Python
+    - Speech recognition and Analysis
+    - Speech Synthesis and text translation
+    - Document feature detection
 - Computer Vision
   - Using OpenCV
   - Samples
-    - Facial recognization with Python
+    - Facial recognition with Python
     - Car number plate reading from Streaming Video
-    - Medical Image Processing with Matlab
-
-
+    - Medical Image Processing with MATLAB
+    - Object recognition and tracking
+    - Vehicle number plate reading
+    - Intelligent photo tagging and narration
+- Gaming Techniques
+  - Using search algorithms in games
+  - Combinatorial search
+  - Minimax algorithm
+  - Alpha-Beta pruning
+  - Negamax algorithm
