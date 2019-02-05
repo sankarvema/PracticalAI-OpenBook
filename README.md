@@ -16,6 +16,8 @@ Initially when i started writing this book, I always wanted to add something to 
 
 As an open book it does not have the standard publication limitation of the chapter and pages. Book effectively exploits that benefit and takes each subject from the basic concepts to practical applications or use cases to implementation scenarios and in some cases even to the development of sample models and code modules. As an open book this is constantly getting review, refined and augmented. More and more pages are being added every day.
 
+![alt text](https://raw.githubusercontent.com/sankarvema/PracticalAI-OpenBook/master/media/images/PracticalAI-20%25.jpg)
+
 ## Index
 
 For better space management, [Index](index.md) is moved to a dedicated page
